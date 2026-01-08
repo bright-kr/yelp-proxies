@@ -1,6 +1,6 @@
 # Bright Data's Yelp Proxies
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/yelp-proxy) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/yelp-proxy) 
 
 ## Overview
 Bright Data의 [Yelp 프로キシ](https://brightdata.co.kr/solutions/yelp-proxy)를 통해 매끄러운 スクレイピング을 경험해 보시기 바랍니다. 이 솔루션은 정밀한 타기팅, 타의 추종을 불허하는 안정성, 그리고 빠른 응답 시간을 제공하도록 설계되었습니다.
